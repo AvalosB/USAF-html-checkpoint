@@ -1,3 +1,10 @@
+body {
+    margin:0;
+}
+
+header {
+    width: 100%;
+}
 #header{
     background-color: rgb(36, 34, 34);
     display: grid;
